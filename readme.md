@@ -1,2 +1,2 @@
 #### FOCUS
-* (Neovim)[https://github.com/neovim/neovim]
+* [Neovim](https://github.com/neovim/neovim)
